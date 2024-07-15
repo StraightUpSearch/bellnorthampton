@@ -1,2 +1,0 @@
-# bellnorthampton
-My awesome repository
